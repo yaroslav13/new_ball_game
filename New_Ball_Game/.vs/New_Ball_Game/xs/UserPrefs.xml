@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{891034AC-8D3C-48F7-B715-72A2EC82A94C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstField/FirstPlayField.cs">
+    <Files>
+      <File FileName="Cell.cs" Line="24" Column="1" />
+      <File FileName="Program.cs" Line="31" Column="14" />
+      <File FileName="Game.cs" Line="12" Column="30" />
+      <File FileName="AppStrings/AppStrings.cs" Line="2" Column="24" />
+      <File FileName="PlayFields/IPlayField.cs" Line="1" Column="1" />
+      <File FileName="PlayFields/PlayFieldFactory.cs" Line="10" Column="38" />
+      <File FileName="PlayFields/PlayFieldType.cs" Line="6" Column="17" />
+      <File FileName="FirstField/FirstPlayField.cs" Line="218" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.New__Ball__Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/bin/Debug/netcoreapp3.1/New_Ball_Game.deps.json
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/bin/Debug/netcoreapp3.1/New_Ball_Game.runtimeconfig.json
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/bin/Debug/netcoreapp3.1/New_Ball_Game.runtimeconfig.dev.json
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/bin/Debug/netcoreapp3.1/New_Ball_Game.dll
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/bin/Debug/netcoreapp3.1/New_Ball_Game.pdb
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.csprojAssemblyReference.cache
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.AssemblyInfoInputs.cache
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.AssemblyInfo.cs
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.csproj.CoreCompileInputs.cache
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.dll
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.pdb
+/Users/yaroslavhalivets/Projects/New_Ball_Game/New_Ball_Game/obj/Debug/netcoreapp3.1/New_Ball_Game.genruntimeconfig.cache
